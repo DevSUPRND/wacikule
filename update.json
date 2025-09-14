@@ -1,6 +1,6 @@
 {
-  "F_Version" : 1.3,
-  "F_Url" :"https://devsuprnd.github.io/wacikule/firmware_1.3.bin",
+  "F_Version" : 1.0,
+  "F_Url" :"https://devsuprnd.github.io/wacikule/firmware_1.0.bin",
   "S_Version" : 1.0,
   "S_Url" :"https://devsuprnd.github.io/wacikule/spiffs_1.0.bin"
 }
